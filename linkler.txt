@@ -1,35 +1,24 @@
-vless://d0b60427-ccb0-4026-aeec-d095b6b7dd08@de-2.srv.vpnza300.org:443?security=reality&encryption=none&pbk=4Y1wdeQGqDecReK5UrA5RV7Dcq9QnfuArtSzujdJbXo&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de-2.srv.vpnza300.org&sid=6eda877655137aff#🜲 VØRÐR-UK-SECURE
-vless://monacoVPN@83.228.228.44:22?security=&encryption=none&headerType=http&type=tcp#🜲 VØRÐR-CH-SHADOW
-vless://6fd9f786-d974-49d0-b5c4-397678de69a2@193.233.127.219:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cybo.com#🜲 VØRÐR-RU-NODE
-ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0@51.254.128.106:2083#🜲 VØRÐR-FR-GHOST
-vless://279828c6-13f2-439c-9a4e-ea7d4f470fa4@g10.steptofsvo.com:443?security=reality&encryption=none&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=g10.steptofsvo.com&sid=6d6f13013d3e1d0c#🜲 VØRÐR-NL-CORE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw@89.44.197.181:31348#🜲 VØRÐR-BG-SILENT
-vless://394086c4-d8a4-4298-9b62-f70fa711082d@47.86.55.200:19321?security=&encryption=none&headerType=none&type=tcp#🜲 VØRÐR-US-ALPHA
-vless://d0b60427-ccb0-4026-aeec-d095b6b7dd08@nl-5.srv.vpnza300.org:443?security=reality&encryption=none&pbk=4Y1wdeQGqDecReK5UrA5RV7Dcq9QnfuArtSzujdJbXo&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl-5.srv.vpnza300.org&sid=6eda877655137aff#🜲 VØRÐR-ES-GUARD
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.179:443#🜲 VØRÐR-UK-PHANTOM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVXBUWXNuRm1JTkQxNHZ4@20.164.221.1:443#🜲 VØRÐR-SA-NEON
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZTI4NzYzMWRjNGZjOGZj@62.146.231.112:12012#🜲 VØRÐR-DE-BLACK
-vless://b5bd7d6d-5ab9-4965-bccc-32acdbc4f714@82.40.62.106:2082?security=&encryption=none&headerType=&type=tcp#🜲 VØRÐR-UK-TITAN
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.81.39.100:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=api.digital-help-prd.autodesk.com#🜲 VØRÐR-US-OMEGA
-vless://a4b4dbc4-c9c5-4360-9e9c-d6019118e318@185.226.95.155:80?security=&encryption=none&headerType=&type=tcp#🜲 VØRÐR-US-ZERO
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#🜲 VØRÐR-IT-VOID
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.140:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#🜲 VØRÐR-RO-NIGHT
-vless://d0b60427-ccb0-4026-aeec-d095b6b7dd08@de-2.srv.vpnza300.org:443?security=reality&encryption=none&pbk=4Y1wdeQGqDecReK5UrA5RV7Dcq9QnfuArtSzujdJbXo&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de-2.srv.vpnza300.org&sid=6eda877655137aff#[AU] Quantum-Link Velocity [🜲 VØRÐR- 🔱]
-trojan://hxn2jK9Uzezogua0oHuq9Y8viN%3DUCe.2Jd@185.137.157.254:443?security=tls&host=v2rayNplus-v2rayNplus-v2rayNplus&headerType=none&type=tcp&sni=www.directorypipeline.click#[UK] Trojan-Guard Prime [🜲 VØRÐR- 🔱]
-vless://6fd9f786-d974-49d0-b5c4-397678de69a2@185.214.74.210:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cybo.com#[SC] Seychelles Neural-Path [🜲 VØRÐR- 🔱]
-vless://bc7c7c10-8f24-332e-b303-fb3c8943c24f@s644.ccgfw.top:443?security=tls&encryption=none&host=s644.ccgfw.top&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=u712927ud3c8s644.ccgfw.top#[UK] Secure-Cipher Node Alpha [🜲 VØRÐR- 🔱]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZTI4NzYzMWRjNGZjOGZj@62.146.231.112:12012#[DE] Shadow-Stream Elite [🜲 VØRÐR- 🔱]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@147.90.234.133:443#[US] Shadow-Stream Titan [🜲 VØRÐR- 🔱]
-vless://bc7c7c10-8f24-332e-b303-fb3c8943c24f@s869.okgfwbackxyz.xyz:443?security=tls&encryption=none&host=s869.okgfwbackxyz.xyz&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=u712927us869.okgfwbackxyz.xyz#[US] Neural-Backbone V2 [🜲 VØRÐR- 🔱]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVXBUWXNuRm1JTkQxNHZ4@20.164.221.1:443#[ZA] Shadow-Stream Apex [🜲 VØRÐR- 🔱]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@37.143.130.203:990#[ES] Shadow-Stream Zenith [🜲 VØRÐR- 🔱]
-vless://c1e32c6c-9a14-4edf-95c7-b1236a55aa07@95.182.80.130:16146?mode=gun&security=reality&encryption=none&authority=%2Fv2rayNplus-v2rayNplus-v2rayNplus&pbk=lCkGLh6mypATTCMgrwjjqOxWBISCIB9fmdt_5Fff3Ug&fp=chrome&spx=%2F&type=grpc&sni=www.samsung.com&sid=e7eac240#[RU] GRPC-Secure Orbital [🜲 VØRÐR- 🔱]
-vless://a4b4dbc4-c9c5-4360-9e9c-d6019118e318@185.226.95.155:80?security=&encryption=none&headerType=&type=tcp#[US] Stealth-Core Protocol [🜲 VØRÐR- 🔱]
-vless://279828c6-13f2-439c-9a4e-ea7d4f470fa4@g10.steptofsvo.com:443?security=reality&encryption=none&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=g10.steptofsvo.com&sid=6d6f13013d3e1d0c#[NL] Reality-Bridge Omega [🜲 VØRÐR- 🔱]
-ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0@51.254.128.106:2083#[FR] Shadow-Stream Spectre [🜲 VØRÐR- 🔱]
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.179:443#[UK] Shadow-Stream Ironclad [🜲 VØRÐR- 🔱]
-vless://d0b60427-ccb0-4026-aeec-d095b6b7dd08@nl-5.srv.vpnza300.org:443?security=reality&encryption=none&pbk=4Y1wdeQGqDecReK5UrA5RV7Dcq9QnfuArtSzujdJbXo&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl-5.srv.vpnza300.org&sid=6eda877655137aff#[UK] Quantum-Link Nebula [🜲 VØRÐR- 🔱]
-vless://6db7ea14-ed33-4591-a9b1-f1e91b1c0ff5@nl.omuvpn.tech:18443?security=reality&encryption=none&pbk=YoVxvwAP6l4vRG9HZmePBcHxy9oaRyWKmp1fIXVzPAY&headerType=none&fp=chrome&spx=%2FvhgEUJaTXMbWbkj&type=tcp&flow=xtls-rprx-vision&sni=www.miro.com&sid=16#[DE] Reality-Bridge Vector [🜲 VØRÐR- 🔱]
-vmess://eyJhZGQiOiI1LjE4OC4xOTAuMjUyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIyMzI0IiwicHMiOiJUw7xya2l5ZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#[TR] VMess-Hyper Tunnel [🜲 VØRÐR- 🔱]
-vless://bc7c7c10-8f24-332e-b303-fb3c8943c24f@s642.ccgfw.top:443?security=tls&encryption=none&host=s642.ccgfw.top&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=u712927u4c78s642.ccgfw.top#[UK] Secure-Cipher Node Beta [🜲 VØRÐR- 🔱]
-vless://b5bd7d6d-5ab9-4965-bccc-32acdbc4f714@82.40.62.106:2082?security=&encryption=none&headerType=&type=tcp#[UK] Stealth-Core Sentinel [🜲 VØRÐR- 🔱]
+vless://6e593426-1a8e-4226-984f-0ea174e218c7@216.24.57.1:443?path=%2Fid-pusat&security=tls&alpn=http%2F1.1&encryption=none&host=dl.cvs.freefiremobile.com.cyylr.eu.cc&fp=chrome&type=ws&sni=dl.cvs.freefiremobile.com.cyylr.eu.cc#United%20States
+vless://4b616b6f-6f6c-4e65-7773-b8e2c9f3d541@20.103.221.187:443?path=%2F&security=tls&encryption=none&type=ws&sni=studious-bassoon-gx45w7rj6j7jfwp4g-443.app.github.dev#The%20Netherlands
+vless://394086c4-d8a4-4298-9b62-f70fa711082d@47.86.55.200:19321?security=&encryption=none&headerType=none&type=tcp#United%20States
+trojan://GKHWMe2R4qwNcNxu6l3KMkdd@121.178.83.161:26214?path=%2Ftrj-ws&security=tls&type=ws&sni=vpn1.rnmcnm.com#South%20Korea
+vless://3ea2d8f2-12c1-4189-8cc5-91d0ee9f5ca0@185.228.232.215:443?security=reality&encryption=none&pbk=C1hW1bTA9WOacIK-fHHg-HLkDZ3FY7FhEhAyldMSUEA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=queuev4.vk.com&sid=a1b2c3d4e5f6#Russia
+vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.219.213.195:10032?security=&encryption=none&headerType=none&type=tcp#Singapore
+vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@5.183.253.171:443?security=reality&encryption=none&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=8248954896#Russia
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.146:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#Romania
+vless://6e593426-1a8e-4226-984f-0ea174e218c7@216.24.57.1:443?path=%2Fid-pusat&security=tls&alpn=http%2F1.1&encryption=none&host=dl.cvs.freefiremobile.com.cyylr.eu.cc&fp=chrome&type=ws&sni=dl.cvs.freefiremobile.com.cyylr.eu.cc#United%20States
+vless://4b616b6f-6f6c-4e65-7773-b8e2c9f3d541@20.103.221.187:443?path=%2F&security=tls&encryption=none&type=ws&sni=studious-bassoon-gx45w7rj6j7jfwp4g-443.app.github.dev#The%20Netherlands
+vless://394086c4-d8a4-4298-9b62-f70fa711082d@47.86.55.200:19321?security=&encryption=none&headerType=none&type=tcp#United%20States
+trojan://GKHWMe2R4qwNcNxu6l3KMkdd@121.178.83.161:26214?path=%2Ftrj-ws&security=tls&type=ws&sni=vpn1.rnmcnm.com#South%20Korea
+vless://3ea2d8f2-12c1-4189-8cc5-91d0ee9f5ca0@185.228.232.215:443?security=reality&encryption=none&pbk=C1hW1bTA9WOacIK-fHHg-HLkDZ3FY7FhEhAyldMSUEA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=queuev4.vk.com&sid=a1b2c3d4e5f6#Russia
+vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.219.213.195:10032?security=&encryption=none&headerType=none&type=tcp#Singapore
+vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@5.183.253.171:443?security=reality&encryption=none&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=8248954896#Russia
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.146:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#Romania
+vless://6e593426-1a8e-4226-984f-0ea174e218c7@216.24.57.1:443?path=%2Fid-pusat&security=tls&alpn=http%2F1.1&encryption=none&host=dl.cvs.freefiremobile.com.cyylr.eu.cc&fp=chrome&type=ws&sni=dl.cvs.freefiremobile.com.cyylr.eu.cc#United%20States
+vless://4b616b6f-6f6c-4e65-7773-b8e2c9f3d541@20.103.221.187:443?path=%2F&security=tls&encryption=none&type=ws&sni=studious-bassoon-gx45w7rj6j7jfwp4g-443.app.github.dev#The%20Netherlands
+vless://394086c4-d8a4-4298-9b62-f70fa711082d@47.86.55.200:19321?security=&encryption=none&headerType=none&type=tcp#United%20States
+trojan://GKHWMe2R4qwNcNxu6l3KMkdd@121.178.83.161:26214?path=%2Ftrj-ws&security=tls&type=ws&sni=vpn1.rnmcnm.com#South%20Korea
+vless://3ea2d8f2-12c1-4189-8cc5-91d0ee9f5ca0@185.228.232.215:443?security=reality&encryption=none&pbk=C1hW1bTA9WOacIK-fHHg-HLkDZ3FY7FhEhAyldMSUEA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=queuev4.vk.com&sid=a1b2c3d4e5f6#Russia
+vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.219.213.195:10032?security=&encryption=none&headerType=none&type=tcp#Singapore
+vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@5.183.253.171:443?security=reality&encryption=none&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=8248954896#Russia
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.146:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#Romania
