@@ -1,7 +1,7 @@
 #profile-title: base64:8J+cslbDmFLDkFIt8J+UsV/wn5qAdmlwLXNlcnZlcnPwn5uw
 #profile-update-interval: 0
 #announce: base64:4p2O77iPVnBuIGxhciBpxZ9sZW1lc2Ug8J+aqGthbmFseW15emHwn5qAZ2VsaXDinIXvuI9saWtlIOKdpO+4j2Jhc2HFiHl6IHRhemUga29kbGFyIGdlbGVy4pyF77iPDQo6aHR0cHM6Ly90Lm1lL3h5bGVuXzExMQ==
-#subscription-userinfo: upload=0; download=0; total=1; expire=0
+#subscription-userinfo: upload=0; download=0; total=0; expire=1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWWVYyZDF5aGVHaVZDV1h5cFRFS3h3@217.179.6.7:1080#🇷🇺┃🔗CHANNEL-TM┃◈《_🜲_VØRÐR_🔱_》💎
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWWVYyZDF5aGVHaVZDV1h5cFRFS3h3@217.179.6.7:1080#🇩🇪┃🚀DE-FAST┃◈《_🜲_VØRÐR_🔱_》🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWWVYyZDF5aGVHaVZDV1h5cFRFS3h3@217.179.6.7:1080#🇳🇱┃🌐NETHERLAND┃◈《_🜲_VØRÐR_🔱_》❄️
