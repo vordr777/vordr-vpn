@@ -1,6 +1,6 @@
 #profile-title: base64:8J+cslbDmFLDkFIt8J+UsV/wn5qAdmlwLXNlcnZlcnPwn5uw
 #profile-update-interval: 0
-#announce: base64:4p2O77iPVnBuIGxhciBpxZ9sZW1lc2Ug8J+aqGthbmFseW15emHwn5qAZ2VsaXDinIXvuI9saWtlIOKdpO+4j2Jhc2HFiHl6IHRhemUga29kbGFyIGdlbGVy4pyF77iPDQo6aHR0cHM6Ly90Lm1lL3h5bGVuXzExMQ==
+#announce: base64:8J+agFNhbGFt8J+Ri21lbvCfjJDjgIpf8J+csiBWw5hSw5BSIPCflLFf44CL8J+agGd5c2dhY2Hwn5uwbWVu4pyI77iPxZ9hdGx5a/Cfm5xHQvCfl4PigJTimb7vuI8=
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 vless://7a0a7fba-405e-46c8-90d9-88b11553b5b7@194.127.178.180:443?security=reality&encryption=none&pbk=Rpc9MCEogqr44HkgduXGcJqCOGnNiaGyjCb4PDPRVQw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudcdn-m9-5.cdn.yandex.net#🇳🇱┃🔗NETHERLANDS┃◈《_🜲_VØRÐR_🔱_》❄️
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?mode=gun&security=&encryption=none&type=grpc#🇫🇷┃🗼FRANCE-ALPHA┃◈《_🜲_VØRÐR_🔱_》🍷
