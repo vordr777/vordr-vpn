@@ -2,28 +2,13 @@
 #profile-update-interval: 0
 #announce: base64:4p2O77iPVnBuIGxhciBpxZ9sZW1lc2Ug8J+aqGthbmFseW15emHwn5qAZ2VsaXDinIXvuI9saWtlIOKdpO+4j2Jhc2HFiHl6IHRhemUga29kbGFyIGdlbGVy4pyF77iPDQo6aHR0cHM6Ly90Lm1lL3h5bGVuXzExMQ==
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWWVYyZDF5aGVHaVZDV1h5cFRFS3h3@217.179.6.7:1080#🇷🇺┃🔗CHANNEL-TM┃◈《_🜲_VØRÐR_🔱_》💎
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWWVYyZDF5aGVHaVZDV1h5cFRFS3h3@217.179.6.7:1080#🇩🇪┃🚀DE-FAST┃◈《_🜲_VØRÐR_🔱_》🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWWVYyZDF5aGVHaVZDV1h5cFRFS3h3@217.179.6.7:1080#🇳🇱┃🌐NETHERLAND┃◈《_🜲_VØRÐR_🔱_》❄️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWWVYyZDF5aGVHaVZDV1h5cFRFS3h3@217.179.6.7:1080#🇫🇮┃🌌FINLAND┃◈《_🜲_VØRÐR_🔱_》🌪️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWWVYyZDF5aGVHaVZDV1h5cFRFS3h3@217.179.6.7:1080#🇨🇦┃🍁CANADA┃◈《_🜲_VØRÐR_🔱_》🌲
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWWVYyZDF5aGVHaVZDV1h5cFRFS3h3@217.179.6.7:1080#🇷🇺┃🎮GAMING-RU┃◈《_🜲_VØRÐR_🔱_》🕹️
-vless://02a9da7a-39f4-40fa-8168-299ade4293ac@217.179.6.7:445?security=none&type=tcp#🇦🇿┃🔥AZERBAIJAN┃◈《_🜲_VØRÐR_🔱_》🧿
-vless://02a9da7a-39f4-40fa-8168-299ade4293ac@217.179.6.7:445?security=none&type=tcp#🇮🇹┃🤌ITALY┃◈《_🜲_VØRÐR_🔱_》🍕
-vless://02a9da7a-39f4-40fa-8168-299ade4293ac@217.179.6.7:445?security=none&type=tcp#🇦🇪┃🕌UAE┃◈《_🜲_VØRÐR_🔱_》🏜️
-vless://02a9da7a-39f4-40fa-8168-299ade4293ac@217.179.6.7:80?security=none&type=xhttp&path=%2FcreatorX31#🇧🇷┃💃BRAZIL┃◈《_🜲_VØRÐR_🔱_》🌴
-vless://02a9da7a-39f4-40fa-8168-299ade4293ac@217.179.6.7:80?security=none&type=xhttp&path=%2FcreatorX31#🇺🇿┃⭐UZBEKISTAN┃◈《_🜲_VØRÐR_🔱_》🌞
-vless://02a9da7a-39f4-40fa-8168-299ade4293ac@217.179.6.7:81?security=none&type=grpc&serviceName=gprc&mode=gun#🇺🇸┃🗽USA-GRPC┃◈《_🜲_VØRÐR_🔱_》🚀
-vless://02a9da7a-39f4-40fa-8168-299ade4293ac@217.179.6.7:81?security=none&type=grpc&serviceName=gprc&mode=gun#🇪🇸┃💃SPAIN-GRPC┃◈《_🜲_VØRÐR_🔱_》🌹
-trojan://2SdQRmP1DHTWIiDi2Ohcgw@217.179.6.7:3554?security=none&type=tcp#🇫🇷┃🗼FRANCE┃◈《_🜲_VØRÐR_🔱_》🍷
-trojan://2SdQRmP1DHTWIiDi2Ohcgw@217.179.6.7:3554?security=none&type=tcp#┃🐨AUSTRALIA┃◈《_🜲_VØRÐR_🔱_》🌊
-vmess://eyJhZGQiOiAiMjE3LjE3OS42LjciLCAiYWlkIjogIjAiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMzU2Y2E4ZjYtN2QwNy00ZmNkLThiYmUtYjYyODViMTExNTYxIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4MDgxLCAicHMiOiAi8J+MoiBJbmRpIG91bmx5IiwgInNjeSI6ICJhdXRvIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-vmess://eyJhZGQiOiAiMjE3LjE3OS42LjciLCAiYWlkIjogIjAiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMzU2Y2E4ZjYtN2QwNy00ZmNkLThiYmUtYjYyODViMTExNTYxIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4MDgxLCAicHMiOiAi8J+MvyBGaW5pc2hlZCAiLCAic2N5IjogImF1dG8iLCAidGxzIjogIm5vbmUiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWWVYyZDF5aGVHaVZDV1h5cFRFS3h3@217.179.6.7:1080#🇷🇺┃🔗CHANNEL-TM┃◈《_🜲_VØRÐR_🔱_》💎
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWWVYyZDF5aGVHaVZDV1h5cFRFS3h3@217.179.6.7:1080#🇩🇪┃🚀DE
--FAST┃◈《_🜲_VØRÐR_🔱_》🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWWVYyZDF5aGVHaVZDV1h5cFRFS3h3@217.179.6.7:1080#🇳🇱┃🌐NETHERLAND┃◈《_🜲_VØRÐR_🔱_》❄️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWWVYyZDF5aGVHaVZDV1h5cFRFS3h3@217.179.6.7:1080#🇫🇮┃🌌FINLAND┃◈《_🜲_VØRÐR_🔱_》🌪️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWWVYyZDF5aGVHaVZDV1h5cFRFS3h3@217.179.6.7:1080#🇨🇦┃🍁CANADA┃◈《_🜲_VØRÐR_🔱_》🌲
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWWVYyZDF5aGVHaVZDV1h5cFRFS3h3@217.179.6.7:1080#🇷🇺┃🎮GAMING-RU┃◈《_🜲_VØRÐR_🔱_》🕹️
-vless://02a9da7a-39f4-40fa-8168-299ade4293ac@217.179.6.7:445?security=none&type=tcp#🇦🇿┃🔥AZERBAIJAN┃◈《_🜲_VØRÐR_🔱_》🧿
+vless://7a0a7fba-405e-46c8-90d9-88b11553b5b7@194.127.178.180:443?security=reality&encryption=none&pbk=Rpc9MCEogqr44HkgduXGcJqCOGnNiaGyjCb4PDPRVQw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudcdn-m9-5.cdn.yandex.net#🇳🇱┃🔗NETHERLANDS┃◈《_🜲_VØRÐR_🔱_》❄️
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?mode=gun&security=&encryption=none&type=grpc#🇫🇷┃🗼FRANCE-ALPHA┃◈《_🜲_VØRÐR_🔱_》🍷
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.120:8880?mode=gun&security=&encryption=none&type=grpc#🇫🇷┃🗼FRANCE-BETA┃◈《_🜲_VØRÐR_🔱_》💎
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?mode=gun&security=&encryption=none&type=grpc#🇩🇪┃🚀GERMANY-CORE┃◈《_🜲_VØRÐR_🔱_》🔥
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.120:8880?mode=gun&security=&encryption=none&type=grpc#🇯🇵┃🌌JAPAN-NODE┃◈《_🜲_VØRÐR_🔱_》🌪️
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?mode=gun&security=&encryption=none&type=grpc#🇨🇦┃🍁CANADA-SYNC┃◈《_🜲_VØRÐR_🔱_》🌲
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.120:8880?mode=gun&security=&encryption=none&type=grpc#🇸🇬┃🌐SINGAPORE-V┃◈《_🜲_VØRÐR_🔱_》🧿
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?mode=gun&security=&encryption=none&type=grpc#🇰🇷┃🚀KOREA-SPEED┃◈《_🜲_VØRÐR_🔱_》⚡
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.120:8880?mode=gun&security=&encryption=none&type=grpc#🇬🇧┃🧿UK-MATRIX┃◈《_🜲_VØRÐR_🔱_》🧬
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?mode=gun&security=&encryption=none&type=grpc#🇮🇹┃🤌ITALY-OMEGA┃◈《_🜲_VØRÐR_🔱_》🍕
