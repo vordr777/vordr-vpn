@@ -45,3 +45,4 @@ ss://YWVzLTI1Ni1nY206c3NfMTc4MTEwMDUwNg==@109.207.169.115:2050#🇬🇧 United-k
 ss://YWVzLTI1Ni1nY206c3NfMTc4MTEwMDUwNg==@109.207.169.115:2050#🌐 Kanal-Extra-1 ◈《_🜲_VØRÐR_🔱_》◈
 ss://YWVzLTI1Ni1nY206c3NfMTc4MTEwMDUwNg==@109.207.169.115:2050#🌐 Kanal-Extra-2 ◈《_🜲_VØRÐR_🔱_》◈
 ss://YWVzLTI1Ni1nY206c3NfMTc4MTEwMDUwNg==@109.207.169.115:2050#🌐 Kanal-Extra-3 ◈《_🜲_VØRÐR_🔱_》◈
+https://raw.githubusercontent.com/ShadowException/VPN/refs/heads/main/configs/VPN-cat
