@@ -38,3 +38,13 @@ vless://2dac53cd-d5ce-4d00-9a3f-f595765bc466@45.196.169.53:8443?security=reality
 vless://f15cf9c1-8b9b-4723-b672-cf1c8d1c8f65@195.209.88.184:443?path=%2Fv1%2Fdata%2Fsync%2F&security=tls&encryption=none&alpn=http/1.1&fp=edge&allowinsecure=0&type=ws&sni=s99309.cdn.ngenix.net#🇸🇬+𝐕Ø𝐑Ð𝐑+𝐒𝐈𝐍𝐆𝐀𝐏𝐎𝐑𝐄+🏙️🔱
 vless://49f06130-cfd4-44d6-bea4-ffc97986f61b@45.196.169.53:8443?security=reality&encryption=none&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f32140952ba18e18#🇮🇹+𝐕Ø𝐑Ð𝐑+𝐈𝐓𝐀𝐋𝐘+🍝🔱
 vless://06bcd513-ef0b-4c0c-a03b-e25fcda66fe2@45.195.137.5:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=40ce08cf20c67003#🇨🇭+𝐕Ø𝐑Ð𝐑+𝐒𝐖𝐈𝐓𝐙𝐄𝐑𝐋𝐀𝐍Ð+🏔️🔱
+ss://YWVzLTI1Ni1nY206c3NfMTc4MTI4MzI1Mw==@217.199.253.140:2050#🇫🇷+𝐕Ø𝐑Ð𝐑+𝐑𝐔𝐒𝐒𝐈𝐀+🎮🔱-01
+ss://YWVzLTI1Ni1nY206c3NfMTc4MTI4MzI1Mw==@217.199.253.140:2050#🇯🇵+𝐕Ø𝐑Ð𝐑+𝐑𝐔𝐒𝐒𝐈𝐀+🎮🔱-02
+ss://YWVzLTI1Ni1nY206c3NfMTc4MTI4MzI1Mw==@217.199.253.140:2050#🇧🇷+𝐕Ø𝐑Ð𝐑+𝐑𝐔𝐒𝐒𝐈𝐀+🎮🔱-03
+ss://YWVzLTI1Ni1nY206c3NfMTc4MTI4MzI1Mw==@217.199.253.140:2050#🇨🇦+𝐕Ø𝐑Ð𝐑+𝐑𝐔𝐒𝐒𝐈𝐀+🎮🔱-04
+ss://YWVzLTI1Ni1nY206c3NfMTc4MTI4MzI1Mw==@217.199.253.140:2050#🇮🇹+𝐕Ø𝐑Ð𝐑+𝐑𝐔𝐒𝐒𝐈𝐀+🎮🔱-05
+ss://YWVzLTI1Ni1nY206c3NfMTc4MTI4MzI1Mw==@217.199.253.140:2050#🇪🇸+𝐕Ø𝐑Ð𝐑+𝐑𝐔𝐒𝐒𝐈𝐀+🎮🔱-06
+ss://YWVzLTI1Ni1nY206c3NfMTc4MTI4MzI1Mw==@217.199.253.140:2050#🇦🇺+𝐕Ø𝐑Ð𝐑+𝐑𝐔𝐒𝐒𝐈𝐀+🎮🔱-07
+ss://YWVzLTI1Ni1nY206c3NfMTc4MTI4MzI1Mw==@217.199.253.140:2050#🇳🇱+𝐕Ø𝐑Ð𝐑+𝐑𝐔𝐒𝐒𝐈𝐀+🎮🔱-08
+ss://YWVzLTI1Ni1nY206c3NfMTc4MTI4MzI1Mw==@217.199.253.140:2050#🇰🇷+𝐕Ø𝐑Ð𝐑+𝐑𝐔𝐒𝐒𝐈𝐀+🎮🔱-09
+ss://YWVzLTI1Ni1nY206c3NfMTc4MTI4MzI1Mw==@217.199.253.140:2050#🇲🇽+𝐕Ø𝐑Ð𝐑+𝐑𝐔𝐒𝐒𝐈𝐀+🎮🔱-10
