@@ -1,6 +1,6 @@
 #profile-title: base64:8J+cslbDmFLDkFIt8J+UsV/wn5qAdmlwLXNlcnZlcnPwn5uw
 #profile-update-interval: 0
-#announce: base64:8J+agFNhbGFt8J+Ri21lbvCfjJDjgIpf8J+csiBWw5hSw5BSIPCflLFf44CL8J+agGd5c2dhY2Hwn5uwbWVu4pyI77iPxZ9hdGx5a/Cfm5xHQvCfl4PigJTimb7vuI8=
+#announce: ICAgICAgICAgICAgICAgIOOAil/wn5yyIFbDmFLDkFIg8J+UsV/jgIsNCiAgICAgICAgICAgICAgIPCfjI5WaXAtc2VydmVyc/CfjJANCiAgICAgICAgICAg8J+Xg1VMQU5ZSlk644CKX/CfnLIgVsOYUsOQUiDwn5SxX+OAiw0KICAgICAgICAgICAgICAgIFtMXTrimb7vuI9d4oCUW0RdOuKZvu+4jw0KICAgICAgICAgICAgICDwn6qqIEFETUlOIFNFUlZFUiDwn5eDDQogICAgICAgICAgICAgICDwn5OhIENPTk5FQ1TEsE9OIOKche+4jw0K
 #subscription-userinfo: upload=9999999999; download=0; total=0; expire=0
 vless://666fbf83-009d-46de-8e18-d9d297171899@78.17.64.229:443?security=reality&encryption=none&pbk=5exQ23G02H5S25qWfq7nVnNV-3VohohRx3M3niKcCWA&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cupdata.store&sid=f6bee880693dff99#🇫🇷+𝐕Ø𝐑Ð𝐑+𝐈𝐑𝐄𝐋𝐀𝐍Ð+☘️🔱-01
 vless://e81b3eeb-5c79-47c2-8196-722358e14acb@77.90.60.233:43000?security=reality&encryption=none&pbk=a_OuNKLGp5Z2rLwuWKM1Y3pMbuGE78z5-L7c0p5hNUE&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sid=f2059a31#🇯🇵+𝐕Ø𝐑Ð𝐑+𝐆𝐄𝐑𝐌𝐀𝐍𝐘+🏎️🔱-02
